@@ -1,6 +1,0 @@
-> Example:
-> 
->     sub status {
->         print "working";
->     }
-> 

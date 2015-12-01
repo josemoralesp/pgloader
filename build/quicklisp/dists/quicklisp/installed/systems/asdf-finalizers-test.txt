@@ -1,1 +1,0 @@
-dists/quicklisp/software/asdf-finalizers-20150608-git/asdf-finalizers-test.asd

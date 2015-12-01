@@ -1,1 +1,0 @@
-dists/quicklisp/software/cl-sqlite-20130615-git/
